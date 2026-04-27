@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         拼多多药品算价助手
-// @namespace    https://github.com/your-username/pdd-price-calculator
+// @namespace    https://github.com/17jokers/pdd-price-calculator
 // @version      1.0.0
 // @description  拼多多商家后台药品算价工具，自动计算拼单价/单买价并一键填入SKU表格
 // @author       your-name
@@ -9,8 +9,8 @@
 // @match        https://mms.pinduoduo.com/*
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/your-username/pdd-price-calculator/main/pdd-price-calculator.user.js
-// @downloadURL  https://raw.githubusercontent.com/your-username/pdd-price-calculator/main/pdd-price-calculator.user.js
+// @updateURL    https://raw.githubusercontent.com/17jokers/pdd-price-calculator/main/pdd-price-calculator.user.js
+// @downloadURL  https://raw.githubusercontent.com/17jokers/pdd-price-calculator/main/pdd-price-calculator.user.js
 // ==/UserScript==
 
 (function () {
